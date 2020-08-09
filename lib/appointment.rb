@@ -14,6 +14,7 @@ class Appointment
       @@all
     end
   
+    def 
   
   
   
