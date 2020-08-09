@@ -27,6 +27,4 @@ class Artist
     songs.collect {|s| s.genre}
   end
   
-  
-  
 end
